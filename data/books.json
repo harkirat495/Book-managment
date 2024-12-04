@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publicationYear": 1960,
+    "imageUrl": "https://example.com/to-kill-a-mockingbird.jpg",
+    "isbn": "9780061120084",
+    "description": "A novel about the serious issues of rape and racial inequality."
+  },
+  {
+    "id": 3,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publicationYear": 1951,
+    "imageUrl": "https://example.com/catcher-in-the-rye.jpg",
+    "isbn": "9780316769488",
+    "description": "A story about the events surrounding the protagonist, Holden Caulfield."
+  }
+]
